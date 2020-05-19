@@ -1,4 +1,4 @@
-baseurl = "http://victorhugo.dev/"
+baseurl = "boring-euclid-98d45c.netlify.app"
 title = "Victor Hugo"
 theme = "coder-portfolio"
 languagecode = "pt"
