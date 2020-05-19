@@ -1,4 +1,4 @@
-baseurl = "http://victorhugo.dev/"
+baseurl = "https://victorhugo.dev/"
 title = "Victor Hugo"
 theme = "coder-portfolio"
 languagecode = "pt"
