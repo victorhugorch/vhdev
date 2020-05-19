@@ -1,8 +1,8 @@
-baseurl = "https://victorhugo.dev/" # Hostname (and path) to the root.
-title = "Victor Hugo" # Site title.
-theme = "coder-portfolio" # Set the theme.
-languagecode = "pt" # The site’s language code used to generate RSS.
-defaultcontentlanguage = "pt" # The default content language.
+baseurl = "http://victorhugo.dev/"
+title = "Victor Hugo"
+theme = "coder-portfolio"
+languagecode = "pt"
+defaultcontentlanguage = "pt"
 
 paginate = 20 # Default number of pages per page in pagination.
 
@@ -11,7 +11,7 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
 
-disqusShortname = "victorhugorch" # Enable or disable Disqus.
+disqusShortname = "victorhugorch"
 
 [params] # theme parameters
     author = "Victor Hugo Rocha" # Author's name.
