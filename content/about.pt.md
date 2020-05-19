@@ -7,7 +7,7 @@ description = "about"
 
 ---------------------------
 
-Desenvolvedor PHP, trabalho há 4 anos com o framework Laravel na maioria dos meus projetos. Atualmente trabalhando como GCP Cloud Admin na [Veus Technology](http://site.veusserver.com/).
+Carioca, entusiasta em tecnologia e atualmente morando em São Paulo.
 
 No meu tempo livre tento focar nos meus projetos pessoais e artigos.
 
