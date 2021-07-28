@@ -15,7 +15,7 @@ disqusShortname = "victorhugorch"
 
 [params] # theme parameters
     author = "Victor Hugo Rocha" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
+    info = "Tech Manager" # Author's job title or info.
     description = "Victor Hugo personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "https://i.imgur.com/p3bwx22.jpg" # Contain the path of the optionnal avatar in the static folder.
@@ -66,7 +66,7 @@ disqusShortname = "victorhugorch"
         # You can configure the theme parameter for each language.
         [languages.en.params]
         author = "Victor Hugo Rocha"
-        info = "WEB AND APPS ENGINEER"
+        info = "Tech Manager"
         description = "Victor Hugo personal website"
         keywords = "blog,developer,personal"
 
@@ -88,7 +88,7 @@ disqusShortname = "victorhugorch"
 
         [languages.pt.params]
             author = "Victor Hugo Rocha"
-            info = "Desenvolvedor"
+            info = "Tech Manager"
             description = "Site pessoal e blog"
             keywords = "blog,developer,desenvolvedor"
 
